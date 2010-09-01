@@ -1085,3 +1085,8 @@ function KeyTable ( oInit )
 	/* Initialise our new object */
 	_fnInit( oInit, this );
 }
+
+// Local variables:
+// espresso-indent-level: 8
+// indent-tabs-mode: t
+// end:
